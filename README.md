@@ -1,36 +1,4 @@
 # McDonalds_Sales_Analysis_Microsoft_Excel
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>🍔 McDonald's Sales Dashboard (Excel)</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #fffdf7;
-    }
-    h1, h2, h3 {
-      color: #d62020;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 12px;
-      border-radius: 8px;
-      overflow-x: auto;
-    }
-    ul {
-      margin-top: 0;
-    }
-  </style>
-</head>
-<body>
 
   <h1>🍔 McDonald's Sales Dashboard (Excel)</h1>
   <p>This repository contains a dynamic and interactive <strong>Excel Dashboard</strong> created to explore and analyze sales performance data for McDonald's. The project leverages a clean, well-structured dataset to uncover actionable insights related to customer preferences, time-based trends, and product performance.</p>
